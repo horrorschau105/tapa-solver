@@ -85,7 +85,7 @@ psutil==5.6.3
 ptyprocess==0.6.0
 pycocotools==2.0.0
 pycparser==2.20
-Pygments==2.4.2
+Pygments==2.7.4
 pylint==2.3.1
 pyparsing==2.4.2
 pyrealsense2==2.26.0.1053
