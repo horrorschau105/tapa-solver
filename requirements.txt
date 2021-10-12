@@ -66,7 +66,7 @@ nbformat==4.4.0
 networkx==2.3
 notebook==6.0.1
 numpy==1.17.1
-opencv-contrib-python==4.1.0.25
+opencv-contrib-python==4.1.1.26
 opencv-python==4.1.0.25
 packaging==19.1
 pandas==0.24.2
